@@ -3,7 +3,7 @@ require 'pry'
 class String
 
   def sentence?
-    sentence? = "Hi, my name is Sophie.".end_with?(".")
+     "Hi, my name is Sophie.".end_with?(".")
   
   end
 
